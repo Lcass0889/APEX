@@ -10,6 +10,7 @@ Velocímetro por GPS com alertas de radar pela via e pelo sentido, rotas gravada
 comunidade com amigos no mapa. Nativo no iPhone, no CarPlay e no Android.
 
 [![Baixar no TestFlight](https://img.shields.io/badge/Baixar%20no%20iPhone-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/jvhhJSjR)
+[![Baixar APK para Android](https://img.shields.io/badge/Baixar%20no%20Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Lcass0889/APEX/releases/latest)
 
 ![iOS 18+](https://img.shields.io/badge/iOS-18%2B-000000?logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swift-SwiftUI-F05138?logo=swift&logoColor=white)
@@ -25,13 +26,14 @@ comunidade com amigos no mapa. Nativo no iPhone, no CarPlay e no Android.
 
 ## 📲 Baixe e teste
 
-O APEX para iPhone está em teste aberto no TestFlight: **[entrar no teste](https://testflight.apple.com/join/jvhhJSjR)**.
+| | iPhone | Android |
+|---|---|---|
+| **Onde** | [TestFlight](https://testflight.apple.com/join/jvhhJSjR) | [Última versão (APK)](https://github.com/Lcass0889/APEX/releases/latest) |
+| **Como** | Instale o app TestFlight, abra o link no iPhone e toque em **Aceitar** e **Instalar** | Baixe o `.apk` em **Assets**, abra no celular e, se o Android pedir, permita instalar apps desta origem |
+| **Atualizações** | Chegam pelo TestFlight | Instale o APK novo por cima: mesmo certificado, os dados continuam no aparelho |
+| **Requisito** | iOS 18 ou posterior | Android 8.0 ou posterior |
 
-1. Instale o app **TestFlight** da App Store.
-2. Abra o link acima no iPhone e toque em **Aceitar** e depois em **Instalar**.
-3. As atualizações chegam pelo próprio TestFlight.
-
-Precisa de iOS 18 ou posterior. É uma versão de teste: o APEX não substitui a sinalização da via nem a atenção ao volante.
+Todas as versões Android ficam em [Releases](../../releases), com o SHA-256 de cada arquivo. É uma versão de teste: o APEX não substitui a sinalização da via nem a atenção ao volante.
 
 ## 📸 Capturas de tela
 
@@ -79,7 +81,7 @@ Precisa de iOS 18 ou posterior. É uma versão de teste: o APEX não substitui a
 
 ## 🗺️ Status
 
-Em teste: iPhone pelo [TestFlight](https://testflight.apple.com/join/jvhhJSjR) e Android por APK de teste, ainda sem link público.
-Ainda não está na App Store nem no Google Play. O código é privado.
+Em teste: iPhone pelo [TestFlight](https://testflight.apple.com/join/jvhhJSjR) e Android pelo [APK](https://github.com/Lcass0889/APEX/releases/latest).
+Ainda não está na App Store nem no Google Play. O código do app é privado; este repositório guarda a página do APEX e os APKs.
 
 <div align="center"><sub>APEX · SwiftUI + Jetpack Compose + Supabase</sub></div>
