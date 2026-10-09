@@ -70,14 +70,4 @@ comunidade com amigos no mapa. Nativo no iPhone, no CarPlay e no Android.
 Em teste fechado: iPhone pelo TestFlight e Android por APK. Ainda não está na App Store nem no
 Google Play. O código é privado.
 
----
-
-### Outros projetos
-
-| Projeto | O que é |
-|---|---|
-| **GymFocus** | App de treino em React Native com Expo · [política de privacidade e termos](https://github.com/Lcass0889/gymfocus-legal) |
-| **L.E.O.** | Assistente de voz que roda localmente: Whisper, Ollama e Piper |
-| **Prospector** | Encontra negócios locais sem site cruzando dados públicos (CNPJ, DNS, Google Maps e registro.br) |
-
 <div align="center"><sub>APEX · SwiftUI + Jetpack Compose + Supabase</sub></div>
