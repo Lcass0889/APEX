@@ -9,17 +9,29 @@
 Velocímetro por GPS com alertas de radar pela via e pelo sentido, rotas gravadas, garagem e
 comunidade com amigos no mapa. Nativo no iPhone, no CarPlay e no Android.
 
+[![Baixar no TestFlight](https://img.shields.io/badge/Baixar%20no%20iPhone-TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/jvhhJSjR)
+
 ![iOS 18+](https://img.shields.io/badge/iOS-18%2B-000000?logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/Swift-SwiftUI-F05138?logo=swift&logoColor=white)
 ![CarPlay](https://img.shields.io/badge/CarPlay-Driving%20Task-000000?logo=apple&logoColor=white)
 ![Android 8+](https://img.shields.io/badge/Android-8%2B-3DDC84?logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth-3FCF8E?logo=supabase&logoColor=white)
-![Status](https://img.shields.io/badge/status-teste%20fechado-D2F85A)
+![Status](https://img.shields.io/badge/status-beta%20no%20TestFlight-D2F85A)
 
 </div>
 
 ---
+
+## 📲 Baixe e teste
+
+O APEX para iPhone está em teste aberto no TestFlight: **[entrar no teste](https://testflight.apple.com/join/jvhhJSjR)**.
+
+1. Instale o app **TestFlight** da App Store.
+2. Abra o link acima no iPhone e toque em **Aceitar** e depois em **Instalar**.
+3. As atualizações chegam pelo próprio TestFlight.
+
+Precisa de iOS 18 ou posterior. É uma versão de teste: o APEX não substitui a sinalização da via nem a atenção ao volante.
 
 ## 📸 Capturas de tela
 
@@ -67,7 +79,7 @@ comunidade com amigos no mapa. Nativo no iPhone, no CarPlay e no Android.
 
 ## 🗺️ Status
 
-Em teste fechado: iPhone pelo TestFlight e Android por APK. Ainda não está na App Store nem no
-Google Play. O código é privado.
+Em teste: iPhone pelo [TestFlight](https://testflight.apple.com/join/jvhhJSjR) e Android por APK de teste, ainda sem link público.
+Ainda não está na App Store nem no Google Play. O código é privado.
 
 <div align="center"><sub>APEX · SwiftUI + Jetpack Compose + Supabase</sub></div>
